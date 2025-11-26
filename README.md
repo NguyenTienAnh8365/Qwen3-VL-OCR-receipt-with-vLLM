@@ -174,7 +174,7 @@ Reduce GPU memory utilization:
 
 - Ensure CUDA 12.1 is properly installed
 - Check GPU utilization with `nvidia-smi`
-- Reduce or increase `--max-model-len` if needed
+- Reduce `--max-model-len` if needed
 
 ### Invalid JSON Output
 
